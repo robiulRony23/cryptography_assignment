@@ -1,0 +1,8 @@
+In modern communication systems, bandlimited AWGN cannot be ignored. When modeling bandlimited AWGN in the
+phasor domain, statistical analysis reveals that the amplitudes of the real and imaginary contributions are ind
+ependent variables which follow the Gaussian distribution model. When combined, the resultant phasor's magnitude is a Rayleigh distributed ra
+ndom variable while the phase is uniformly distributed from 0 to 2π.
+The graph to the right shows an example of how bandlimited AWGN can affect a coherent carrier signal. The instantaneous
+ response of the Noise Vector cannot be precisely predicted, however its time-averaged response can be statistically predicted. As shown in the graph
+ , we confidently predict that the noise phasor will reside inside the 1σ circle about 38% of the time; the noise phasor will reside
+ inside the 2σ circle about 86% of the time; and the noise phasor will reside inside the 3σ circle about 98% of the time.

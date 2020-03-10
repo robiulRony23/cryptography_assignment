@@ -1,0 +1,10 @@
+One of the most important skills you need to build as a Python developer is to be able to run Python scripts and code. This is going to be the only way for you to know if your code works as you planned. It’s even the only way of knowing if your code works at all!
+This step-by-step tutorial will guide you through a series of ways to run Python scripts, depending on your environment, platform, needs, and skills as a programmer.
+In computing, the word script is used to refer to a file containing a logical sequence of orders or a batch processing file. This is usually a simple program, stored in a plain text file.
+Scripts are always processed by some kind of interpreter, which is responsible for executing each command sequentially.
+A plain text file containing Python code that is intended to be directly executed by the user is usually called script, which is an informal term that means top-level program file.
+On the other hand, a plain text file, which contains Python code that is designed to be imported and used from another Python file, is called module.
+So, the main difference between a module and a script is that modules are meant to be imported, while scripts are made to be directly executed.
+In either case, the important thing is to know how to run the Python code you write into your modules and scripts.Generally people switching
+from C/C++ to Python wonder how to print two or more variables or statements without going into a new line in python. Since the python print() function by default ends with newline. Python has a predefined format if you use print(a_variable) then it will go to next line automatically
+Python is also a piece of software called an interpreter. The interpreter is the program you’ll need to run Python code and scripts. Technically, the interpreter is a layer of software that works between your program and your computer hardware to get your code running
